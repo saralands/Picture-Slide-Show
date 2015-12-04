@@ -1,0 +1,9 @@
+.slideshow {
+  height: 300px;
+}
+.slideshow img {
+  position: absolute;
+  display: none;
+}
+
+/*# sourceMappingURL=main.css.map */
